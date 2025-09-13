@@ -1,0 +1,23 @@
+{
+  "name": "node-tutorials",
+  "version": "1.0.0",
+  "description": "Node.js tutorials and examples for learning and development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"No tests specified yet\" && exit 0"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial",
+    "learning",
+    "examples",
+    "javascript"
+  ],
+  "author": "Bassel-11",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
